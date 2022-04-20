@@ -18,6 +18,8 @@
  * 5. listen to port
  * 6. node index.js
  * 7. check your browser for that port
+ * -------------------
+ * install nodemon to automate the server 
  * -----------
  * get
  * -----------
